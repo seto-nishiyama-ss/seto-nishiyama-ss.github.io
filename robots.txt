@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seto-nishiyama-ss.github.io/sitemap.xml
